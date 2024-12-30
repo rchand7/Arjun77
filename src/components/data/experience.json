@@ -1,41 +1,41 @@
 [
   {
     "id": 1,
-    "role": "Senior Software Development Engineer SDE - II",
-    "organisation": "Google",
-    "startDate": "Sept, 2023",
+    "role": "Operation Management Trainee",
+    "organisation": "R1 RCM",
+    "startDate": "Jan, 2025",
     "endDate": "Present",
-    "location": "CA,United State",
+    "location": "Noida, India",
     "experiences": [
-      "Worked on Google Gmail",
-      "Worked with the Google Bard Team"
+      "Worked as Operation Management Trainee",
+      "Leading team and Achieving Client SLAs"
     ],
-    "imageSrc": "company/google.png"
+    "imageSrc": "company/r1.png"
   },
   {
     "id": 2,
-    "role": "Software Development Engineer SDE - I",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2022",
-    "endDate": "Aug, 2023",
-    "location": "London, UK",
+    "role": "Quality Specialist",
+    "organisation": "R1 RCM",
+    "startDate": "Feb, 2023",
+    "endDate": "Dec, 2023",
+    "location": "Noida, India",
     "experiences": [
-      "Worked on Windows 10 terminal",
-      "Worked on Window 11 Upcoming features"
+      "Worked as Quality Specialist",
+      "Claims Auditing"
     ],
-    "imageSrc": "company/microsoft.png"
+    "imageSrc": "company/r1.png"
   },
   {
     "id": 3,
-    "role": "Software Development Engineer - Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2021",
-    "endDate": "Jun, 2022",
-    "location": "Bengluru, India",
+    "role": "Senior Analyst",
+    "organisation": "Pacific",
+    "startDate": "Jan, 2020",
+    "endDate": "Jan, 2021",
+    "location": "Noida, India",
     "experiences": [
-      "Worked on Nextflix payment system",
-      "Helped to create UI for video player"
+      "Worked in Pacific",
+      "Processing claim and guiding new associates"
     ],
-    "imageSrc": "company/netflix.png"
+    "imageSrc": "company/pacific.png"
   }
 ]

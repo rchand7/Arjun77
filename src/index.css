@@ -103,6 +103,8 @@ a {
 
 /* Experience Section */
 
+/* Experience Section */
+
 .ex {
   width: 900px;
 }
@@ -119,6 +121,16 @@ a {
   border: 1px solid yellow;
   box-shadow: var(--box-shadow);
 }
+
+/* Logo Styling */
+/* Logo Styling */
+.ex-items img {
+  width: 120px; /* Adjust the width as needed */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 5px; /* Optional: Add rounded corners */
+}
+
+
 
 /* Skills */
 
