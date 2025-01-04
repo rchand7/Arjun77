@@ -39,6 +39,12 @@ const Contact = () => {
             <SiGmail className="icons" />
           </a>
         </div>
+        <div className="services-info">
+          <h2>Services I Offer:</h2>
+          <p>App Development</p>
+          <p>Website Development</p>
+          <p>Support: For any support or inquiries, feel free to reach out to me at <a href="tel:+918076708261">8076708261</a></p>
+        </div>
       </div>
     </>
   );
